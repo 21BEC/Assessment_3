@@ -31,7 +31,7 @@ So for that we used react platform to make a Webpage by using HTML5 and JavaScri
 
 ## License
 
-This project is licensed under the MIT license see the  [License] (https://choosealicense.com/licenses/mit/) file for the details.  
+This project is licensed under the MIT license see the [License](https://choosealicense.com/licenses/mit/) file for the details.  
 
 ## Authors
 
